@@ -19,7 +19,6 @@ extends java.lang.Object{
 
     public void bounceY(){
         yVelocity = -1* yVelocity; 
-
     }
 
     public int getX(){
